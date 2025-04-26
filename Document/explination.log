@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.25)  26 APR 2025 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.25)  26 APR 2025 19:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/human/Documents/S25/Task Allocator/Document/explination.tex"
-(c:/Users/human/Documents/S25/Task Allocator/Document/explination.tex
+**"c:/Users/human/Documents/S25/Task Allocator/Task-Allocator/Document/explination.tex"
+(c:/Users/human/Documents/S25/Task Allocator/Task-Allocator/Document/explination.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
 (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -296,9 +296,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./fig1.png> <./fig1b.png>]
-
-[2] (./explination.aux)
+ <./fig1.png> <./fig1b.png>] (./explination.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
@@ -306,17 +304,17 @@ L3 programming layer <2024-12-09>
  ) 
 Here is how much of TeX's memory you used:
  4203 strings out of 473254
- 76406 string characters out of 5722070
- 552758 words of memory out of 5000000
+ 76451 string characters out of 5722070
+ 551758 words of memory out of 5000000
  27390 multiletter control sequences out of 15000+600000
  562976 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,11n,93p,353b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,11n,93p,368b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbrbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbrmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbrmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbrsl10.pfb>
-Output written on explination.pdf (2 pages, 117749 bytes).
+Output written on explination.pdf (1 page, 116684 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
